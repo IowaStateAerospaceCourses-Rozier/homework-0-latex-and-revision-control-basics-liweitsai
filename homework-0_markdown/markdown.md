@@ -1,7 +1,7 @@
 # Discussion
 
 ### Basic Git Workflow  
-Git is a version control tool. In general, you would first have a master branch which includes all the original files. After you start to work, you could build other branches from your current branch. This process would duplicate all the files from the current branch to the new branch. Simply type the following commands to create a new branch and move to the new branch you just made.  
+Git is a version control tool. In general, you would first have a master branch which includes all the original files. After you start to work, you could build other branches from your current branch. This process would save the current status of your current branch as a new branch. Simply type the following commands to create a new branch and move to the new branch you just made.  
 ```  
 git branch <branchname>  
 git checkout <branchname>  
@@ -22,7 +22,12 @@ to add changes to be staged for commit. Second, you would use
 ```  
 git commit  
 ```   
-to commit those changes.  
+to commit those changes. You could also combine two branches together by using 
+``` 
+git merge <branchname>
+```  
+This would merge your current branch to your target branch. Sometimes, merge process may have some conflicts. To solve conflicts, you would have a comparison of two branches and you would need to decide which part you want to leave or cancel.  
 
+Github realize the functions of Git on the Internet.  
 
 ### The Importance of Good Documentation 
