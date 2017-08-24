@@ -32,7 +32,7 @@ This would merge your current branch to your target branch. Sometimes, merge pro
 ```  
 git push <remote> <branchname>
 ```
-to upload your current branch to your target branch on your remote repository. If your target branch doesn't exist on your remote repository, this command would create a new branch on your remote repository. Since your team members would also upload their branches, you could also use 
+to upload your current branch to your target branch on your remote repository. If your target branch doesn't exist on your remote repository, this command would create a new branch on your remote repository. Since your team members would also upload their branches to the remote repository, you could also use 
 ```  
 git pull <remote> <branchname>  
 ```  
