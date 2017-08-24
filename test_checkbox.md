@@ -1,5 +1,4 @@
---
-Test Markdown Checkbox 
-- [ ] Apple
+# Test Markdown Checkbox 
+- [x] Apple
 - [ ] Banana 
 - [ ] Orange
