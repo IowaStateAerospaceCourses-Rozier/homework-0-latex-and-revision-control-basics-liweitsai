@@ -1,9 +1,7 @@
 # Discussion
 
 ### Basic Git Workflow  
-Git is a version control tool.  
-In general, you would first have a master branch which includes all the original files.  
-After you start to work, you could build other branches from your current branch. This process would duplicate all the files from the current branch to the new branch. Simply type the following commands to create a new branch and move to the new branch you just made.  
+Git is a version control tool. In general, you would first have a master branch which includes all the original files. After you start to work, you could build other branches from your current branch. This process would duplicate all the files from the current branch to the new branch. Simply type the following commands to create a new branch and move to the new branch you just made.  
 ```  
 git branch <branchname>  
 git checkout <branchname>  
