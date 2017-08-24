@@ -51,13 +51,13 @@ The final date on your `submission` branch will be used as the submission date f
 
 Git is a version control system used for tracking changes and coordinating work on digital files among multiple people. Version control, or revision/source control is a way to manage changes on documents, code, or other data to allow  concurrent editing, resolution of conflicts, and long-term management and saving of changes.  You can read more about why using revision control in higher education is important for your future [here](https://jarofgreen.co.uk/2013/05/why-programmers-should-learn-git/).
 
-- [ ] Complete the
+- [x] Complete the
   [Git 101 Tutorial](https://try.github.io/levels/1/challenges/1) -
   this should take about 15 minutes.
-- [ ] Review the Github
+- [x] Review the Github
   [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   which will help you remember key commands and workflows with Git.
-- [ ] Make note of the additional resources available
+- [x] Make note of the additional resources available
   [here](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   for going deeper into your learning about git and Github.
 
@@ -66,13 +66,13 @@ Git is a version control system used for tracking changes and coordinating work 
 
 Since we will be using git for all assignments in this class, it will be important for you to learn **Markdown**.  Markdown is a lightweight language for formatting text that is designed to be more human readable than most markup languages, like HTML, but also to be easily rendered in HTML, or rich text display formats.  Markdown is the preferred language of git readme files, and is the language used to code the file you are reading.
 
-- [ ] Read the *Mastering Markdown* guide available
+- [x] Read the *Mastering Markdown* guide available
   [here](https://guides.github.com/features/mastering-markdown/).
-- [ ] In your checked out homework, make sure you click the boxes for this assignment of completed objectives, and commit the changes to git!
+- [x] In your checked out homework, make sure you click the boxes for this assignment of completed objectives, and commit the changes to git!
 
 Markdown was originally developed by John Gruber of [Daring Fireball](daringfireball.net), he's written about markdown [here](http://daringfireball.net/projects/markdown/).
 
-- [ ] Create a new directory for a markdown assignment, and create a basic markdown file in it.  Include a short discussion of the git workflow, with separate sections for git, and the importance of good documentation.  Include git commands formatted as code/syntax to show the basics of the git workflow.
+- [x] Create a new directory for a markdown assignment, and create a basic markdown file in it.  Include a short discussion of the git workflow, with separate sections for git, and the importance of good documentation.  Include git commands formatted as code/syntax to show the basics of the git workflow.
 
 
 ## Learn LaTeX
@@ -81,15 +81,15 @@ While Markdown is great for README files, and for general communication and nota
 
 For this last part of Homework 0, you will need to use your git skills to check out a homework template from Github, make modifications in LaTeX, and compile a final PDF of your assignment for submission.
 
-- [ ] Check out the basic LaTeX template from git: 
+- [x] Check out the basic LaTeX template from git: 
   https://github.com/IowaStateAerospaceCourses-Rozier/LaTeXHomeworkTemplate
-- [ ] Bookmark the 
+- [x] Bookmark the 
   [wikibook](https://en.wikibooks.org/wiki/LaTeX) 
   on LaTeX, it answers any question you are likely to have, including very advanced ones.  Don't try and read the whole thing today, it's very long!
-- [ ] Bookmark the LaTeX 
+- [x] Bookmark the LaTeX 
   [cheat sheet](http://www.ctan.org/tex-archive/info/latexcheat/latexcheat/latexsheet.pdf), 
   it will come in handy!
-- [ ] Make sure you have LaTeX
+- [x] Make sure you have LaTeX
   [installed](https://en.wikibooks.org/wiki/LaTeX/Installation) 
   on your machine.  It is available for all operating systems.  Some people prefer to work with LaTeX
   [online](https://en.wikibooks.org/wiki/LaTeX/Installation#Online_solutions)
@@ -108,9 +108,9 @@ Below this you will find a section you can tailor for your assignment in the for
 
 Read the [basics](https://en.wikibooks.org/wiki/LaTeX/Basics) section of the LaTeX wikibook to learn about the commands in this homework template.
 
-- [ ] Compile your new document as a PDF.
-- [ ] Commit the changed file to your repository.  Make sure to push your changes!
+- [x] Compile your new document as a PDF.
+- [x] Commit the changed file to your repository.  Make sure to push your changes!
 
 Lastly...
 
-- [ ] Create a pull request for your branch! (You did remember to build a branch didn't you?)
+- [x] Create a pull request for your branch! (You did remember to build a branch didn't you?)
