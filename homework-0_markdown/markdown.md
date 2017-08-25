@@ -39,10 +39,8 @@ git pull <remote> <branchname>
 to update your local branches. This command would pull the target branch to update your current branch. 
 ### The Importance of Good Documentation  
 
-In my opinion, there are several important advantages for good documentation.  
+In my opinion, there are two important advantages for making a good document.  
     
 First, good documentation helps new knowledge to spread faster. People we develop technology in a much faster speed than before, becaues our information and knowledge spread much more easily than before. A good document means the information in it is saved in a clear and easy way to understand. Though people we have boundaries from using different languages, a good document could also be more easily and clearly translated to different languages. 
     
-Second, for researchers, good documentation skills could also help them improve and speed up their research process. For example, a weekly report could help researchers clearly understand their working progress and also evaluate the efficiency of the current research method. Progress repots have a great help for researchers on their final publication. Progress reports would give researchers a clear map of research progress and the structure of their publication. Those paragrahs and figures in progress reports would massively save the time on publication.   
-
-
+Second, for researchers, good documentation skills could also help them improve and speed up their research process. For example, a weekly report could help researchers clearly understand their working progress and also evaluate the efficiency of the current research method. Progress repots have a great help for researchers on their final publication. Progress reports would give researchers a clear map of research progress and the structure of their publication. Those paragraphs and figures in progress reports would massively save their time on their final publication.   
